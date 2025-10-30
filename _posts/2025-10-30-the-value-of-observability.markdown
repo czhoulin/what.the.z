@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "The Value Of Observability"
-date:   2025-10-30 00:59:59 +0100
+date:   2025-10-30 01:59:59 +0100
 categories: observability
 ---
 
 ![Illustrated person pointing a flashlight at a giant question mark]({{ site.baseurl }}/images/observability_1.png "Observing or Struggling")
 
-The first time I heard about observability I was around a year into my software development career. I had not heard of it before nor was I let known that it was anything of relevance prior to that moment. Someone brought it to my attention as a, ‘hey, I think you’d be interested in this’. And he was right! As someone who’s into building technical solutions that go beyond the context of specific teams but organizations more, let me share some of the reflections that got me hooked to the topic. Now we hear the term _observability_ get tossed around a lot in software conversations, but what does it truly mean? 
+A few months into my software development journey, in a time when my only insight into production came from server logs (I know!), someone offhandedly mentioned the word **observability**. It instantly sparked my curiosity. Even though a few years have passed since then, I still think it's worth sharing some of the reflections and ideas that were particularly influential to me back then—because we hear "observability" tossed around a lot in software conversations these days, but what does it _really_ mean?
 
 Before it became part of our engineering vocabulary, it came from **control theory**—a field focused on understanding and guiding system behavior. In that context, two key ideas go hand in hand: controllability and observability.
 
